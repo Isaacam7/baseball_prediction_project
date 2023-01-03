@@ -1,4 +1,4 @@
-# baseball_prediction_projet
+# baseball_prediction_project
 
 This is a work in progress project, attempting to make accurate baseball predictions.
 
